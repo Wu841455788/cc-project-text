@@ -10,7 +10,7 @@ from pptx.chart.data import CategoryChartData
 import os
 
 
-#text
+#text第二次
 # ── 颜色常量 ──────────────────────────────────────────
 BG_DARK   = RGBColor(0x0F, 0x17, 0x2A)
 CARD_BG   = RGBColor(0x1E, 0x29, 0x3B)
